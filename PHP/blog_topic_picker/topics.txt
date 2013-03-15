@@ -1,0 +1,4 @@
+Keeping a Code Journal
+How to Learn to Program
+My take on PHP vs Ruby
+Hello
